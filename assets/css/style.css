@@ -52,6 +52,8 @@ h3 {
 
 /* header */
 
+
+
 #masthead {
   position: fixed;
   z-index: 99;
@@ -65,7 +67,7 @@ h3 {
 
 #logo {
   float: left;
-  width: 250px;
+  width: 400px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -215,3 +217,9 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+#HangMan{
+  object-fit: none;
+  height:150px;
+  width: 150px;
+  }

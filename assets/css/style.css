@@ -26,9 +26,9 @@ p {
   margin-bottom: 20px;
 }
 
-p:last-child {
+/* p:last-child {
   margin-bottom: 0;
-}
+} */
 
 h1,
 h2,
@@ -142,7 +142,7 @@ h3, h2 {
   position: relative;
   float: left;
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 20px 20px 25px;
   overflow: auto;
 }
 
